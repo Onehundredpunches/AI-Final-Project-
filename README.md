@@ -1,6 +1,7 @@
 AI Final Project
 
 GVHD: PGS. TS Nguyễn Trường Thịnh
+
 SVTH: Nguyễn Minh Tấn       
 MSSV: 20146417
 
