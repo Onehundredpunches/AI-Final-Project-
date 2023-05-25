@@ -1,4 +1,4 @@
-AI Final Project
+AI FINAL PROJECT
 
 GVHD: PGS. TS Nguyễn Trường Thịnh
 
